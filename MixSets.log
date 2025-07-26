@@ -1,0 +1,63 @@
+v4.1.8
+SAMP = true
+
+Mod: Language = 1
+Mod: Enabled = true 
+Mod: NoDensities = true 
+System: ProcessPriority = 6
+Gameplay: FixMouseStuck = true 
+Graphics: Anisotropic = 2
+Graphics: NoStencilShadows = true 
+Experimental: NoParticles = true 
+Experimental: NoPostFx = true 
+
+Terminado de ler o ini na inicialização do jogo
+
+System: StreamMemory = 1024
+System: MouseFix = true 
+System: SkipShutdown = true 
+Graphics: NoMotionBlur = true 
+Graphics: NoVertigoEffect = true 
+Graphics: NoHeatEffect = true 
+Graphics: NoLowPoleShadows = true 
+Graphics: NoPlaneTrails = true 
+Graphics: NoRainSteam = true 
+Graphics: NoSandstormSteam = true 
+Graphics: NoRainNoise = true 
+Graphics: NoPointLights = true 
+Graphics: HeadlightSmoothMov = true 
+Graphics: VehShadowSmoothMov = true 
+Graphics: NoSkyStuff = true 
+Graphics: NoSun = true 
+Graphics: SunBlockedByVehicles = true 
+Graphics: SunBlockedByPeds = true 
+Graphics: SunBlockedByObjects = true 
+Graphics: NoWaterFog = true 
+Graphics: NoMirrors = true 
+Graphics: NoRainStreaks = true 
+Graphics: NoGoggleNoise = true 
+Graphics: NoVolumetricClouds = true 
+Graphics: NoBirds = true 
+Graphics: NoLowClouds = true 
+Graphics: NoGrass = true 
+Graphics: NoFireCoronas = true 
+Graphics: NoDismemberment = true 
+Graphics: HideWeaponsOnVehicle = true 
+Gameplay: NoSteerSpeedLimit = true 
+Gameplay: NoFixHandsToBars = true 
+Gameplay: EnableCensorship = true 
+Gameplay: DeadPedFreezeDelay = 2000
+Gameplay: NoWheelTurnBack = true 
+Gameplay: EnableTrainCams = true 
+Gameplay: NoPauseWhenUnfocus = true 
+Gameplay: NoIdleCam = true 
+Gameplay: KeepLightEngineOff = true 
+Gameplay: FixMouseSensibility = true 
+Gameplay: NoDoorCamera = true 
+Gameplay: NoCinematicCam = true 
+Audio: NoAmbientGuns = true 
+Audio: NoHelpBoxSound = true 
+Audio: SirenOnWithoutDriver = true 
+
+Terminado de ler o ini no primeiro frame.
+
